@@ -124,7 +124,7 @@ source ~/.bashrc
 
 ### 鸣谢
 
-在[AutoLabelImg](https://https://github.com/wufan-tb/AutoLabelImg)的基础上更新，大佬的代码很严谨:smiley:
+在[AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg)的基础上更新，大佬的代码很严谨:smiley:
 
 
 

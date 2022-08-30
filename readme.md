@@ -113,5 +113,5 @@ typing 'labeling' in terminal to open the software.
 
 ## Thanks
 
-Updated on the basis of [AutoLabelImg](https://https://github.com/wufan-tb/AutoLabelImg), the code of the author is very rigorous
+Updated on the basis of [AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg), the code of the author is very rigorous
 
